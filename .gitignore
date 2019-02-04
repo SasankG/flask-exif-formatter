@@ -1,0 +1,8 @@
+bin/
+images/
+include/
+lib/
+notes.md
+pip-selfcheck.json
+pyvenv.cfg
+.DS_Store
